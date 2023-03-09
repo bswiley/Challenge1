@@ -16,7 +16,7 @@ a {
 
 p {
     font-size: 16px;
-/* Header */
+/* header */
 }
 .header {
     padding: 20px;
@@ -31,7 +31,7 @@ p {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #b1b4af;
 }
 
 .header nav {
@@ -48,9 +48,9 @@ p {
 
 .header nav ul li {
     display: inline-block;
+    float: left;
     margin-left: 25px;
 }
-/* hero */
 
 .hero {
     height: 800px;
