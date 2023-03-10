@@ -9,7 +9,7 @@ The puropose of this project was to improve Horiseon Social Solution Services sp
 
 3. In the navigation section, "Search Engine Optimization" did not link down to its section in the "content" section.  I added a class so that the connection between the two worked. 
 
-4. Previously the page was titled "webpage." I changed it to "Horiseon Social Solution Services."  Since the page is the company's main representation on the internet the company's name is a good description of the page. 
+4. Previously the page was titled "webpage." I changed it to "Horiseon Social Solution Services."  Since the page is the company's main representation on the internet, the company's name is a good description of the page. 
 
 The index.html file is at the same level as this README.md file.  The style.css can be reached by first entering the "assets" folder and then going another level down in the "css" folder.  All the images are in the /assets/images/ folder.  
 
