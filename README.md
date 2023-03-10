@@ -11,6 +11,8 @@ The puropose of this project was to improve Horiseon Social Solution Services sp
 
 4) Previously the page was titled "webpage," and I changed it to "Horiseon Social Solution Services" since the page is the companies representation on the internet. 
 
+The index.html file is at the same level as this README.md file.  The style.css can be reached by first entering the "assets" folder and then going another level down in the "css" folder.  All the images are in the /assets/images/ folder.  
+
 
 ## Installation
 This page was deployed directly after the above fixes were made so there is no need to do anything else to implement these changes.  
