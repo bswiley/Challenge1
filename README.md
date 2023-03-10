@@ -15,7 +15,7 @@ The index.html file is at the same level as this README.md file.  The style.css 
 
 
 ## Installation
-This page was deployed directly after the above fixes were made so there is no need to do anything else to implement these changes.  
+This page was deployed directly to https://bswiley.github.io/Challenge1/ after the work was completed and there is no need to do anything else to implement these changes.  
 
 ## License
-The work added to this page was done free of license and the license should default to that of the original webpage
+The work added to this page was done free of license and the license should default to that of the original webpage.
