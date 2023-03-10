@@ -7,8 +7,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
-    height: 100%
+    background-color: #d9dcd6;   
 }
 a {
     color: #ffffff;
@@ -17,14 +16,14 @@ a {
 
 p {
     font-size: 16px;
-/* header */
 }
+/* header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    height: 10%;
+    
 }
 
 .header h1 {
@@ -57,18 +56,16 @@ p {
 /* hero is background only, with no semantic value, so doesn't have an 'alt' */
 
 .hero {
-    height:800;
+    height: 1000px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
 }
 /* Contents section */
 .content {
     width: 75%;
-    height: 60%;
     display: inline-block;
     margin-left: 20px;
 }
