@@ -11,11 +11,11 @@ The puropose of this project was to improve Horiseon Social Solution Services sp
 
 4. Previously the page was titled "webpage." I changed it to "Horiseon Social Solution Services."  Since the page is the company's main representation on the internet, the company's name is a good description of the page. 
 
-The index.html file is at the same level as this README.md file.  The style.css can be reached by first entering the "assets" folder and then going another level down in the "css" folder.  All the images are in the /assets/images/ folder.  
+The index.html and a screen capture (https://github.com/bswiley/Challenge1/blob/main/screencapture.png) are in the same level as this README.md file.  The style.css can be reached by first entering the "assets" folder and then going another level down in the "css" folder.  All the images are in the /assets/images/ folder.  
 
 
 ## Installation
-This page was deployed directly to https://bswiley.github.io/Challenge1/ after the work was completed. There is no need to do anything else to implement these changes or view the site.  
+This page was deployed directly to https://bswiley.github.io/Challenge1/ after the work was completed. There is no need to do anything else to implement these changes or view the site. A screen capture is included in the   
 
 ## License
 The work added to this page was done free of license and the license should default to that of the original webpage.
